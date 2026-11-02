@@ -1,6 +1,4 @@
-# Crime Hotspot Analysis: Probability, Statistics and ML Model Comparison
-
-Applied Probability & Statistics lab · M.E. Big Data Analytics, Manipal School of Information Sciences (MAHE)
+# Crime Hotspot Analysis
 
 Chicago Police Department crime incidents (2017–2019) are used to:
 
