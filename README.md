@@ -33,7 +33,6 @@ src/
   figures.py            report figures
 tests/test_statistics.py
 data/chicago_crimes_sample.csv
-report/                 Word / PDF report
 ```
 
 ```
