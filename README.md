@@ -12,16 +12,6 @@ The website has three pages:
 - **Crime patterns:** city-wide statistics.
 - **Model comparison:** the statistical comparison of the three models.
 
-## Run
-
-```bash
-python -m venv .venv
-.venv\Scripts\activate          # Windows  (macOS/Linux: source .venv/bin/activate)
-pip install -r requirements.txt
-streamlit run app.py             # website
-python main.py                   # command-line run -> outputs/ (tables, figures, results.json)
-python -m pytest -q              # tests
-```
 
 ## Structure
 
